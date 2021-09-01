@@ -26,8 +26,7 @@ github_username: cataiovita
 # Build settings
 markdown: kramdown
 remote_theme: minima
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# add this line to the plugins list if you already have one
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
